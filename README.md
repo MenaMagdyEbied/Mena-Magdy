@@ -1,4 +1,4 @@
-<img align="right" width="300" src="Mena.jpg"/>
+<img align="right" width="300" src=""/>
 
 <h2 align="center">Hi, I'm Mena Magdy 👋</h2>
 
